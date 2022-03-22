@@ -5,12 +5,11 @@
 - 🔭 I’m currently working on [TraQ](www.traq.info)
 - 🌱 I’m currently learning React
 - 💬 Ask me about Javascript, Ruby, Ruby on Rails
-- 📫 How to reach me: cayno334@gmail.com
 <br />
 
 
 
-### :man_technologist: About Me :
+### :man_technologist: Contact with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/colinbertin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linkedin profile" height="30" width="40" /></a>
 </p>
