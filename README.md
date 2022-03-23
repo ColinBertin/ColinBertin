@@ -2,9 +2,9 @@
 <br />
 
 
-- 🔭 I’m currently working on [TraQ](www.traq.info)
+- 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning React
-- 💬 Ask me about Javascript, Ruby, Ruby on Rails
+- 💬 Ask me about JavaScript, Ruby, Ruby on Rails
 <br />
 
 
