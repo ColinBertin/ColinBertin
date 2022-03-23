@@ -9,7 +9,7 @@
 
 
 
-### :man_technologist: Contact with me :
+### :man_technologist: Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/colinbertin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linkedin profile" height="30" width="40" /></a>
 </p>
