@@ -2,7 +2,7 @@
 <br />
 
 
-- 🔭 I’m currently working on <a href="https://colinbertin.github.io/portfolio/" target="blank">my Portfolio</a>
+- 🔭 I’m currently working on my <a href="https://colinbertin.github.io/portfolio/" target="_blank">Portfolio</a>
 - 🌱 I’m currently learning React
 - 💬 Ask me about JavaScript, Ruby, Ruby on Rails
 <br />
