@@ -11,7 +11,7 @@
 ### :man_technologist: Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/colinbertin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linkedin profile" height="30" width="40" /></a>
-  <a href="https://www.colinbertin.com" target="blank"><img align="center" src="https://colinbertin.com/static/media/cb.46f638156ab5d8321fde.png" alt="my porfolio" height="60" width="50" /></a>
+  <a href="https://www.colinbertin.com" target="blank"><img align="center" src="https://colinbertin.com/static/media/cb.46f638156ab5d8321fde.png" alt="my porfolio" height="50" width="50" /></a>
 </p>
 <br />
 
