@@ -33,6 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-< br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinBertin&show_icons=true&locale=en&layout=compact" alt="ColinBertin" /></p>
