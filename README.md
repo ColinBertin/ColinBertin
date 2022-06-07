@@ -16,10 +16,6 @@
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinBertin&show_icons=true&locale=en&layout=compact" alt="ColinBertin" /></p>
-
-<br />
-&nbsp;
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -36,3 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
+
+< br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinBertin&show_icons=true&locale=en&layout=compact" alt="ColinBertin" /></p>
