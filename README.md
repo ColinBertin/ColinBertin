@@ -2,7 +2,7 @@
 <br />
 
 
-- 🔭 I’m currently working on my <a href="https://github.com/ColinBertin/drifty" target="_blank">Drifty</a>
+- 🔭 I’m currently working on <a href="https://github.com/ColinBertin/drifty" target="_blank">Drifty</a>
 - 🌱 I’m currently learning React
 - 💬 Ask me about JavaScript, Ruby, Ruby on Rails
 <br />
