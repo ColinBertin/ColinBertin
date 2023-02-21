@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://github.com/ColinBertin/drifty" target="_blank">Drifty</a>
-- 🌱 I’m currently learning Nextjs
+<!-- - 🌱 I’m currently learning Nextjs -->
 - 💬 Ask me about JavaScript, Ruby, Ruby on Rails
 <br />
 
