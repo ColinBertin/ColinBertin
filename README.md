@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/ColinBertin/drifty" target="_blank">Drifty</a> -->
 - 🌱 I’m currently working with Nextjs
-- 💬 Ask me about React, Ruby, Ruby on Rails
+- 💬 Ask me about React, NextJS, Ruby on Rails
 <br />
 
 
