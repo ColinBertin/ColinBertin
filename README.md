@@ -18,7 +18,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,express,py,django,ruby,rails,postgres,vercel,heroku,tailwind,figma,git,github	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,express,py,django,ruby,rails,postgres,vercel,heroku,tailwind,bootstrap,figma,git,github	)](https://skillicons.dev)
 <br />
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinBertin&show_icons=true&locale=en&layout=compact" alt="ColinBertin" /></p> -->
