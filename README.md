@@ -3,8 +3,9 @@
 
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/ColinBertin/drifty" target="_blank">Drifty</a> -->
-- 🌱 I’m currently working with Nextjs using TypeScript
-- 💬 Ask me about NextJS, Ruby on Rails
+- 💻 Working daily with Next.js & TypeScript
+- 🐍 Exploring Python & Django
+- 💬 Ask me about Next.js, Ruby on Rails
 <br />
 
 
