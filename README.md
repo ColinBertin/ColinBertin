@@ -7,7 +7,6 @@ Full-stack web engineer based in Yokohama, Japan, with 4+ years of experience bu
 - ⚙️ **Backend:** Ruby on Rails, PostgreSQL
 - 🧪 **Testing:** Playwright, Vitest, RSpec
 - 🌱 **Currently:** Expanding my full-stack engineering skills
-- 🤝 **Open to:** Full-time Web Engineer and Full-Stack Developer opportunities in Japan
 
 ### Let's Connect
 
