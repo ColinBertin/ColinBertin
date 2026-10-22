@@ -1,25 +1,27 @@
-<h1> Hi there 👋 I'm Colin </h1>
-<br />
+# Hi there! 👋 I'm Colin
 
+I'm a Belgian **Web Engineer** based in Yokohama, Japan, with 4+ years of experience building and maintaining production web applications.
 
-<!-- - 🔭 I’m currently working on <a href="https://github.com/ColinBertin/drifty" target="_blank">Drifty</a> -->
-- 💻 Working daily with Next.js & TypeScript
-- 🐍 Exploring Python & Django
-- 💬 Ask me about Next.js, Ruby on Rails
-<br />
+My expertise is primarily in frontend development, but I also enjoy working across the stack, from building intuitive interfaces to developing backend features and APIs.
 
+- 💻 **Frontend:** React, Next.js, TypeScript
+- 🛠️ **Backend:** Ruby on Rails, PostgreSQL
+- 🧪 **Testing:** Playwright, Vitest, RSpec
+- 🌱 **Currently:** Expanding my full-stack engineering skills
+- 🤝 **Open to:** Full-time Web Engineer and Full-Stack Developer opportunities in Japan
 
-### :man_technologist: Connect with me :
-<p align="left">
-  <a href="https://www.linkedin.com/in/colinbertin" target="blank" style="top:-5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linkedin profile" height="30" width="40" /></a>
-  <!-- <a href="https://www.colinbertin.com" target="blank"><img align="center" src="https://colinbertin.com/static/media/cb.46f638156ab5d8321fde.png" alt="my porfolio" height="50" width="50" /></a> -->
-</p>
-<br />
+### Let's Connect
 
+🌐 [Portfolio](https://www.colinbertin.com) · 💼 [LinkedIn](https://www.linkedin.com/in/colinbertin)
 
+### 🛠️ Languages and Tools
 
-### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,express,ruby,rails,django,py,postgres,vercel,heroku,tailwind,bootstrap,figma,git,github,firebase	)](https://skillicons.dev)
-<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,ruby,rails,postgres,supabase,vercel,heroku,git,github,githubactions,figma)](https://skillicons.dev)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ColinBertin&show_icons=true&locale=en&layout=compact" alt="ColinBertin" /></p> -->
+**Testing:** Playwright, Vitest, RSpec
+
+**UI:** Headless UI
+
+### 🧪 Playing Around With
+
+[![Learning](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)
