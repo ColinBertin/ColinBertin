@@ -1,11 +1,10 @@
-# Hi there! 👋 I'm Colin
+# Hi, I'm Colin 👋
 
-I'm a Belgian **Web Engineer** based in Yokohama, Japan, with 4+ years of experience building and maintaining production web applications.
+Full-stack web engineer based in Yokohama, Japan, with 4+ years of experience building and maintaining production web applications.
 
-My expertise is primarily in frontend development, but I also enjoy working across the stack, from building intuitive interfaces to developing backend features and APIs.
-
-- 💻 **Frontend:** React, Next.js, TypeScript
-- 🛠️ **Backend:** Ruby on Rails, PostgreSQL
+- 🛠️ I build end-to-end applications, from user interfaces to backend features, APIs, and databases.
+- 💻 **Frontend:** TypeScript, React, Next.js
+- ⚙️ **Backend:** Ruby on Rails, PostgreSQL
 - 🧪 **Testing:** Playwright, Vitest, RSpec
 - 🌱 **Currently:** Expanding my full-stack engineering skills
 - 🤝 **Open to:** Full-time Web Engineer and Full-Stack Developer opportunities in Japan
@@ -17,10 +16,6 @@ My expertise is primarily in frontend development, but I also enjoy working acro
 ### 🛠️ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,ruby,rails,postgres,supabase,vercel,heroku,git,github,githubactions,figma)](https://skillicons.dev)
-
-**Testing:** Playwright, Vitest, RSpec
-
-**UI:** Headless UI
 
 ### 🧪 Playing Around With
 
